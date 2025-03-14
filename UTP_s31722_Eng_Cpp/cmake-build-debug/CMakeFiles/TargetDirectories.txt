@@ -1,0 +1,3 @@
+/Users/dragonav/Desktop/Study/UTP/UTP_s31722_Eng_Project1/UTP_s31722_Eng_Cpp/cmake-build-debug/CMakeFiles/s31722_Checkers_Engine_lib.dir
+/Users/dragonav/Desktop/Study/UTP/UTP_s31722_Eng_Project1/UTP_s31722_Eng_Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dragonav/Desktop/Study/UTP/UTP_s31722_Eng_Project1/UTP_s31722_Eng_Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

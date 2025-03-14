@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="UTP_s31722_Eng_Project1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UTP_s31722_Eng_Cpp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UTP_s31722_Eng_Java.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

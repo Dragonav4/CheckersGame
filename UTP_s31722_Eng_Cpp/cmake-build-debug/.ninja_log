@@ -1,0 +1,8 @@
+# ninja log v6
+1	245	1730739045400320331	CMakeFiles/s31722_Checkers_Engine_lib.dir/Piece.cpp.o	d9733ecd0d70a9eb
+1	1328	1730739045400858957	CMakeFiles/s31722_Checkers_Engine_lib.dir/Board_GameStateJNI.cpp.o	db2073c5ff72997c
+1	1388	1730739045401060332	CMakeFiles/s31722_Checkers_Engine_lib.dir/GameState.cpp.o	1689755313a997de
+1388	1499	1730739046787473060	libs31722_Checkers_Engine_lib.dylib	c530e023a50ca3e1
+14	319	1730901280633258042	CMakeFiles/s31722_Checkers_Engine_lib.dir/Piece.cpp.o	d9733ecd0d70a9eb
+14	847	1730901280634093238	CMakeFiles/s31722_Checkers_Engine_lib.dir/GameState.cpp.o	1689755313a997de
+847	1015	1730901281466640542	libs31722_Checkers_Engine_lib.dylib	c530e023a50ca3e1

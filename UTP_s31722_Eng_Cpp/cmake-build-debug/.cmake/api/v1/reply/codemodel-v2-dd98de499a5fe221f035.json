@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "s31722_Checkers_Engine",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "s31722_Checkers_Engine_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s31722_Checkers_Engine_lib-Debug-c115e1547bce599c8ca8.json",
+					"name" : "s31722_Checkers_Engine_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dragonav/Desktop/Study/UTP/UTP_s31722_Eng_Project1/UTP_s31722_Eng_Cpp/cmake-build-debug",
+		"source" : "/Users/dragonav/Desktop/Study/UTP/UTP_s31722_Eng_Project1/UTP_s31722_Eng_Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
